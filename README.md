@@ -41,3 +41,6 @@ Then run the cells
 This project was created as part of Udacitys Data Science Nanodegree
 
 Inspiration for the second question was drawn from the following kaggle dataset: [https://www.kaggle.com/code/xujiang1993/boston-airbnb]
+
+## Blog post
+Link to Blog Post on Medium: [https://medium.com/@pv1g15/how-to-book-an-airbnb-faa832fabfc6]
